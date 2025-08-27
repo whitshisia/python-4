@@ -33,7 +33,7 @@ phone2.charge()
 # Assignment 2: Polymorphism Challenge
 class Animal:
     def move(self):
-        pass  # generic action (to be overridden)
+        pass  
 
 class Dog(Animal):
     def move(self):
